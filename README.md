@@ -1,1 +1,1 @@
-*Algorithmic problem solving patterns.*
+*Algorithms, data structures and puzzle solving patterns.*
